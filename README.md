@@ -1,8 +1,9 @@
+<h1 align="center">
+  
 # RocketSeat Starter
 Resoluções dos desafios propostos no curso [Starter](https://rocketseat.com.br/starter) da [Rocketseat](https://rocketseat.com.br/). 🚀
-<h1 align="center">
   <kbd>
-    <img src="https://rocketseat.com.br/static/images/og/starter.png" width="650" height="400">
+    <img src="https://rocketseat.com.br/static/images/og/starter.png" width="650" height="360">
   </kbd>
 </h1>
 
