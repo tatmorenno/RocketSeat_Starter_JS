@@ -1,5 +1,7 @@
 # RocketSeat Starter
+
 Resoluções dos desafios propostos no curso [Starter](https://rocketseat.com.br/starter) da [Rocketseat](https://rocketseat.com.br/). 🚀
+
   <kbd>
     <img src="https://rocketseat.com.br/static/images/og/starter.png">
   </kbd>
